@@ -30,4 +30,5 @@ A first-person exploration game built in **Unity** with **C#**, centered around 
 
 ## Preview
 
-![Gameplay GIF](Media/preview.gif)
+![Gameplay GIF](Media/scan-preview.gif)
+![Gameplay GIF](Media/new-interpretation-preview.gif)
